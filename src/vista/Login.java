@@ -66,6 +66,7 @@ public class Login extends javax.swing.JFrame {
         txtContrasenia.setForeground(new java.awt.Color(102, 102, 102));
 
         botonIniciar.setBackground(new java.awt.Color(4, 58, 106));
+        botonIniciar.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
         botonIniciar.setForeground(new java.awt.Color(255, 255, 255));
         botonIniciar.setText("Iniciar");
         botonIniciar.setBorder(null);
